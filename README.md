@@ -1,2 +1,2 @@
 # Animated-welcome
-The following are animated cards 
+This is an animated welcome page
